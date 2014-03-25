@@ -4,11 +4,9 @@ namespace PUGRoma\Kata;
 
 class Kata
 {
-    public function isReady()
+
+    public function calculate($argument1)
     {
-        return true;
+
     }
 }
-
-
-
